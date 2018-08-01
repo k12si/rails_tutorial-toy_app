@@ -1,0 +1,19 @@
+current directory: /Users/nishimurakakushin/Ruby_tutorial/environment/toy_app/vendor/bundle/ruby/2.5.0/gems/byebug-9.0.6/ext/byebug
+/usr/local/opt/ruby/bin/ruby -r ./siteconf20180801-38915-1jxo2es.rb extconf.rb
+creating Makefile
+
+current directory: /Users/nishimurakakushin/Ruby_tutorial/environment/toy_app/vendor/bundle/ruby/2.5.0/gems/byebug-9.0.6/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /Users/nishimurakakushin/Ruby_tutorial/environment/toy_app/vendor/bundle/ruby/2.5.0/gems/byebug-9.0.6/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Users/nishimurakakushin/Ruby_tutorial/environment/toy_app/vendor/bundle/ruby/2.5.0/gems/byebug-9.0.6/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.bundle ./.gem.20180801-38915-l3frtt/byebug
